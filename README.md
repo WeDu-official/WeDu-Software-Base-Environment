@@ -6,7 +6,7 @@
 
 
 
-note:you can get the source code by installing the app from the installer from the releases
+note: you can get the source code by installing the app from the installer from the releases
 
 
 
